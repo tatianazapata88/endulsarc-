@@ -1,0 +1,11 @@
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\CapaEntidad.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\System.Data.SqlClient.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\CapaEntidad.pdb
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\System.Data.SqlClient.xml
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.pdb
