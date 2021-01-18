@@ -71,3 +71,12 @@ as
 insert into pedido(id_pedido,id_producto1,cantidad_producto,id_cliente1,total,fecha_creacion,fecha_entrega) values (@id_pedido,@id_producto1,@cantidad_producto,@id_cliente1,@total,@fecha_creacion,@fecha_entrega)
 
 
+create proc eliminarpedido
+@id_pedido int
+as
+delete from pedido where @id_pedido=id_pedido
+
+create proc  listarPedidos
+@fecha_entrega date
+as
+select * from pedido where @fecha_entrega=fecha_entrega
