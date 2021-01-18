@@ -43,7 +43,7 @@ namespace CapaDato
 
 
         //metodo listar pedidos
-        public DataSet listar_Pedidos(CEpedido opedido)
+        public DataSet listarPedidos(CEpedido opedido)
         {
             try
             {
@@ -65,7 +65,7 @@ namespace CapaDato
         }
 
         //metodo eliminar pedido
-        public bool eliminapedido(CEpedido opedido)
+        public bool eliminarpedido(CEpedido opedido)
         {
             try
             {
